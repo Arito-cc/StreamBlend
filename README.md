@@ -1,20 +1,24 @@
+# StreamBlend – Movie Discovery App
 
-# 🎬 StreamBlend
-
-**StreamBlend** is a modern, responsive movie discovery web app built with **React** and **Material UI**, powered by the **OMDb API**. It allows users to browse, search, and filter movies by genre and rating — all in a smooth single-page interface.
+StreamBlend is a React-based movie discovery application that allows users to search, filter, and explore movies using the OMDb API.
 
 ## 🚀 Features
+- Search movies using external API  
+- Filter by genre and rating  
+- View detailed movie information  
+- Single Page Application using React Router  
+- Responsive UI with Material UI  
 
-- 🔍 **Real-time Search** – Instantly find movies using the OMDb API
-- ⭐ **Popular & Top Rated Listings**
-- 🎛️ **Filter by Genre & Rating**
-- 📝 **Movie Details View**
-- ⚡ **Single Page Application (SPA)** – Built with React Router
-- 🎨 **Modern UI** – Designed with Material UI components
+---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
+- React (Vite)  
+- Material UI  
+- OMDb API  
+- React Router  
 
-- **Frontend**: React, Vite, Material UI
-- **API**: [OMDb API](https://www.omdbapi.com/)
-- **Routing**: React Router DOM
->>>>>>> 0223011bf6b97ee04e79a92777e1b8a9ab134d72
+---
+
+## 👨‍💻 Author
+Abhishek Chaudhary  
+🔗 https://linkedin.com/in/abhishekchaudharycc
